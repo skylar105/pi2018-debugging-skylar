@@ -1,5 +1,3 @@
-$Id: README 5946 2017-05-15 02:05:10Z skylar $
-
 safe_malloc - Utility to demonstrate writing a wrapper around a library call (malloc(3)). Run with no arguments to get a
 default allocation, or run with an argument indicating the size of the array in integer elements.
 

@@ -1,6 +1,4 @@
 /*
- * $Id: safe_malloc.c 5964 2017-05-20 03:54:14Z skylar $
- *
  * Demonstrates the use of a malloc routine that will exit when the allocation fails.
  * Takes in an optional command line argument for the number of integer elements in the array,
  * otherwise defaults to 500.

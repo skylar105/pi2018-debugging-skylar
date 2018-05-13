@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# $Id: logging_example.py 5974 2017-06-06 16:37:02Z skylar $
-
 import argparse
 import logging
 

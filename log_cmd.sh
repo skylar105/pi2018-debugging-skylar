@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# $Id: log_cmd.sh 5958 2017-05-19 03:02:07Z skylar $
-
 set -eo pipefail
 
 # Outputs the current date and time in ISO 8601 format

@@ -1,6 +1,4 @@
 /*
- * $Id: unsafe_malloc.c 5970 2017-05-26 02:27:16Z skylar $
- *
  * Demonstrates malloc problems for debug demonstration.
  * 
  * If built with the compiler declaration DEBUG, prints out debug messages to STDERR as well.

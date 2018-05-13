@@ -1,5 +1,3 @@
-# $Id: Makefile 5973 2017-06-06 16:34:38Z skylar $
-
 CC = gcc
 # Use -g3 (rather than default -g2) to get preprocessor definitions
 CFLAGS = -Wall -gstabs+ -g3 -O0

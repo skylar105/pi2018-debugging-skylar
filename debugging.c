@@ -1,5 +1,3 @@
-/* $Id: debugging.c 5968 2017-05-21 22:04:31Z skylar $ */
-
 #include "debugging.h"
 
 /* Takes in a pointer to a date string and sets it to the current date/time in ISO 8601 format */

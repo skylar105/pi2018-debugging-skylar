@@ -1,5 +1,3 @@
-/* $Id: debugging.h 5959 2017-05-19 03:25:19Z skylar $ */
-
 #ifndef DEBUGGING_H
 #define DEBUGGING_H
 
