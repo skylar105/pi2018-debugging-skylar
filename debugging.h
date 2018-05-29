@@ -12,7 +12,7 @@
 
 void *safe_malloc(const size_t,const char *,const int);
 
-// Hard-code the length of a ISO8601 date/time string to 26 bytes
+// Hard-code the length of an ISO8601 date/time string to 26 bytes
 #define DATE_ISO8601_BYTES 26
 // Global variable holding the current date/time
 char *DATE_STRING;
