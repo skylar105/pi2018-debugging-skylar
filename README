@@ -8,3 +8,13 @@ make safe_malloc
 or with debug statements:
 
 make safe_malloc DEBUG=1
+
+unsafe_malloc - safe_malloc with a bug.
+
+To build:
+
+make unsafe_malloc
+
+or with debug statements:
+
+make unsafe_malloc DEBUG=1
