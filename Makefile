@@ -1,6 +1,6 @@
 CC = gcc
 # Use -g3 (rather than default -g2) to get preprocessor definitions
-CFLAGS = -Wall # -gstabs+ -g3 -O0
+CFLAGS = -Wall -gstabs+ -g3 -O0
 EXPENDABLES = safe_malloc unsafe_malloc debugging.o
 
 # Make sure to run "make clean" to rebuild debugging.o if you change the DEBUG mode
